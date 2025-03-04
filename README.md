@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Javier 👋 </h1> 
 <h3 align="center"> From Embedded C/C++  → Solana & Rust 🦀 | Smart Contracts & Blockchain Data .</h3>
 
-- 🔭 I’m currently working on organizing my GitHub to showcase nice projects and add contributions, preparing to be part of a Web3 dev team.
+- 🔭 I’m currently working on organizing my GitHub to showcase nice projects and add contributions.
   
 - 🌱 I’m currently learning advanced Solana development, on-chain data analysis, and refining my Rust skills.
 
