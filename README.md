@@ -23,8 +23,10 @@
 - ⚡ Fun fact: I went from real-time embedded systems to real-time blockchain transactions. I still think in C++ when writing Rust sometimes, but optimizing code (and my coffee intake) keeps me balanced.
 
 
-[![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge)]([YOUR_RESUME_LINK](https://drive.google.com/file/d/1tu7HinV3yaxLAepN0Gec0TdurBohB62Y/view?usp=drive_link))  
+[![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge)](https://drive.google.com/file/d/1tu7HinV3yaxLAepN0Gec0TdurBohB62Y/view?usp=drive_link) 
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierastc)
+[![Website](https://img.shields.io/badge/Website-Visit-0366d6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devjprod.github.io/)
+
 
 <p align="left"> 
   
