@@ -1,8 +1,6 @@
+
 <h1 align="center">Hi, I'm Javier 👋 </h1> 
 <h3 align="center"> From Embedded C/C++  → Solana & Rust 🦀 | Smart Contracts & Blockchain Data .</h3>
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Javier_AS)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Jagusan_25)
 
 - 🔭 I’m currently working on organizing my GitHub to showcase nice projects and add contributions, preparing to be part of a Web3 dev team.
   
@@ -22,6 +20,9 @@
 [![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge)](https://drive.google.com/file/d/1tu7HinV3yaxLAepN0Gec0TdurBohB62Y/view?usp=drive_link) 
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierastc)
 [![Website](https://img.shields.io/badge/Website-Visit-0366d6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devjprod.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-agüera/)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Javier_AS)
+
 
 <h3>Languages and Tools:</h3>
 <p align="left"> 
