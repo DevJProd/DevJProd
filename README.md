@@ -16,10 +16,6 @@
 
 - 💬 Ask me about **C++, C, OOP, Low-Level Systems Programming, Memory Management, and On-Chain Data**
 
-- 📫 How to reach me **javierastc@gmail.com**
-
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1tu7HinV3yaxLAepN0Gec0TdurBohB62Y/view?usp=drive_link)
-
 - ⚡ Fun fact: I went from real-time embedded systems to real-time blockchain transactions. I still think in C++ when writing Rust sometimes, but optimizing code (and my coffee intake) keeps me balanced.
 
 
@@ -27,9 +23,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javierastc)
 [![Website](https://img.shields.io/badge/Website-Visit-0366d6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devjprod.github.io/)
 
-
+<h3>Languages and Tools:</h3>
 <p align="left"> 
-  
 <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
