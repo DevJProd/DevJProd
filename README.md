@@ -33,6 +33,7 @@ Today I work across **C++**, **Rust**, and systems problems where **performance,
 | Project | Description |
 |---------|-------------|
 | [**cpp-matching-engine**](https://github.com/DevJProd/cpp-matching-engine) | C++ order matching engine — low-latency logic, data structures, performance focus |
+| [**cpp-concurrency-kit**](https://github.com/DevJProd/cpp-concurrency-kit) | Thread-safe queue, mutex, atomics, producer–consumer pipeline |
 | [**Inventory-Management-System**](https://github.com/DevJProd/Inventory-Management-System) | Rust system design — structs, ownership, practical domain modeling |
 
 ### Rust fundamentals
